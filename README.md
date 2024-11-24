@@ -13,6 +13,7 @@
 git clone https://github.com/lukris02/Foundry-Fundamentals-FundMe
 cd Foundry-Fundamentals-FundMe
 make
+```
 
 ## Deploy
 
