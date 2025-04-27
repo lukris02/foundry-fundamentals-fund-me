@@ -10,8 +10,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/lukris02/Foundry-Fundamentals-FundMe
-cd Foundry-Fundamentals-FundMe
+git clone https://github.com/lukris02/foundry-fundamentals-fund-me
+cd foundry-fundamentals-fund-me
 make
 ```
 
